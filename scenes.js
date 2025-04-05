@@ -248,4 +248,126 @@ export const scenes = [
     type: "Training",
     description: "A character trains for an event or confrontation.",
   },
+  {
+    type: "Recovering",
+    description:
+      "A character recovers from a physical or emotional confrontation, taking the necessary time to rest, relax, heal, or recuperate.",
+  },
+  {
+    type: "Reunion",
+    description: "Characters reunite after a considerable length of time.",
+  },
+  {
+    type: "Rebelling",
+    description:
+      "A character rebels against an authority figure, usually as the antithesis of their normal behavior.",
+  },
+  {
+    type: "Believing",
+    description:
+      "A character finally comes to believe something they previously resisted.",
+  },
+  { type: "Scary", description: "Any scene intended to scare the audience." },
+  {
+    type: "Shocking",
+    description:
+      "A moment that jolts the characters and/or the audience by presenting something unexpected — a visual, sound, or surprising story point.",
+  },
+  { type: "Redemption", description: "A character redeems themself somehow." },
+  {
+    type: "Wonder",
+    description:
+      "A character experiences something for the first time with a sense of awe.",
+  },
+  {
+    type: "Atonement",
+    description: "A character reconciles for something they have done.",
+  },
+  {
+    type: "Reconciliation",
+    description:
+      "Two or more characters come together to put aside their differences.",
+  },
+  {
+    type: "Funny",
+    description: "A scene solely meant to induce laughter or amusement.",
+  },
+  {
+    type: "Creepy",
+    description:
+      "A scene that creates a sense of unease via visuals, settings, sounds, imagery, etc.",
+  },
+  {
+    type: "Confident",
+    description: "A character displays newfound confidence.",
+  },
+  {
+    type: "Lashing Out",
+    description: "A character reacts to previous events with anger or sadness.",
+  },
+  {
+    type: "Celebration",
+    description: "Characters celebrate an event or achievement.",
+  },
+  {
+    type: "I Love You",
+    description:
+      "Characters express their love for each other for the first time.",
+  },
+  {
+    type: "Religious",
+    description:
+      "Any scene that takes place in a church or location with religious significance.",
+  },
+  {
+    type: "Cerebral",
+    description:
+      "A scene that demands the audience to apply careful thinking and mental effort to visuals or revealed information.",
+  },
+  { type: "Drugs", description: "Any scene where characters take drugs." },
+  {
+    type: "Psychedelic",
+    description:
+      "Often an acceleration of a drug scene where characters are feeling the psychedelic symptoms of the drug they've taken. Could also be non-drug related, focusing instead on the types of visuals experienced during drug use.",
+  },
+  {
+    type: "Regret",
+    description:
+      "A character looks at a picture, stares off into nothingness, or somehow reflects on their life or actions with regret.",
+  },
+  { type: "Birth", description: "A living being is born." },
+  {
+    type: "Bonding",
+    description:
+      "Two or more characters share a moment together where their relationship grows or is deepened.",
+  },
+  { type: "At Play", description: "Characters have fun playing something." },
+  {
+    type: "Drunk",
+    description:
+      "Any scene where characters are drunk -- usually paired with party scenes.",
+  },
+  {
+    type: "Wounded",
+    description:
+      "A character has been wounded as a result of previous plot points -- they do their best to patch themselves up or accept that they've been wounded and may not survive.",
+  },
+  {
+    type: "Facing a Fear",
+    description: "A character confronts something they are deeply afraid of.",
+  },
+  {
+    type: "Bed Talk",
+    description: "Characters have a conversation while in bed together.",
+  },
+  {
+    type: "Confrontation",
+    description:
+      " Any scene where two or more characters confront one another.",
+  },
+  {
+    type: "The Final Battle",
+    description:
+      "The climax of the film or character arc, showcasing an action, horror, comedic, or dramatic battle.",
+  },
 ];
