@@ -46,7 +46,8 @@ export const scenes = [
   },
   {
     type: "Escape",
-    description: "The character tries to get away, avoid, or hide.",
+    description:
+      "The character tries to get away, avoid, or hide from confinement.",
   },
   {
     type: "In Pursuit",
@@ -62,9 +63,9 @@ export const scenes = [
       "Two characters from seemingly opposite sides are forced into a situation together.",
   },
   {
-    type: "Reversal of Expectations",
+    type: "Reversal of Fortune",
     description:
-      "A character expects a specific outcome but is surprised by the actions of another character -- results in the character changing their mind, doing something else, or doing the opposite of what they originally planned.",
+      "A character expects a certain, very clear outcome, but instead experiences an unexpected one.",
   },
   {
     type: "Unexpected Visitor",
@@ -122,7 +123,7 @@ export const scenes = [
     description: "Two characters end their relationship.",
   },
   {
-    type: "Transportation",
+    type: "Transformation",
     description:
       "A character undergoes a physical or emotional transformation.",
   },
@@ -163,5 +164,49 @@ export const scenes = [
     type: "Revenge",
     description:
       "A character enacts revenge on someone or something that wronged them.",
+  },
+  {
+    type: "Travel",
+    description:
+      "Showcases characters in transit from one location to another.",
+  },
+  {
+    type: "Suiting Up",
+    description: "A character readies themself for an event or confrontation.",
+  },
+  {
+    type: "Planning",
+    description: "Characters explain or go through with their plan.",
+  },
+  {
+    type: "Investigation",
+    description:
+      "A character investigates a location, searching for clues or evidence.",
+  },
+  {
+    type: "Sex",
+    description: "Characters engage in sexual activity.",
+  },
+  {
+    type: "Dream",
+    description:
+      "A scene that is either very clearly a dream or is revealed to be a dream.",
+  },
+  {
+    type: "Flash Forward",
+    description: "A peek into the future -- a stylistic story device.",
+  },
+  {
+    type: "Crash",
+    description: "Characters are involved in a collision of vehicles.",
+  },
+  {
+    type: "Death",
+    description: "A character(s) die.",
+  },
+  {
+    type: "Unexpected Visitor",
+    description:
+      "A character surprises other characters in a dramatic, scary, or funny way.",
   },
 ];
