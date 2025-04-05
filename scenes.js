@@ -13,7 +13,8 @@ export const scenes = [
   },
   {
     type: "Exposition",
-    description: "Necessary information -- quick and clever.",
+    description:
+      "Necessary information about characters, relationships, backgrounds, or motivations -- quick and clever.",
   },
   {
     type: "Transition",
@@ -208,5 +209,43 @@ export const scenes = [
     type: "Unexpected Visitor",
     description:
       "A character surprises other characters in a dramatic, scary, or funny way.",
+  },
+  {
+    type: "Meet-Cute",
+    description:
+      "Two characters that will eventually form a romantic bond first meet in funny, amusing, awkward, or unusual circumstances --in short, they meet in a cute and memorable way.",
+  },
+  {
+    type: "Aftermath",
+    description:
+      "Characters experience the consequences of a specific event, action, or story point.",
+  },
+  {
+    type: "Rules",
+    description: `The "rules" of the plot or a plot point are explained -- a form of exposition.`,
+  },
+  {
+    type: "Altered Reality",
+    description:
+      "The character experiences life through an altered state -- sometimes unknowingly.",
+  },
+  {
+    type: "Montage",
+    description:
+      "A collection of visuals, moments, or quick scenes that condense time and convey multiple actions quickly.",
+  },
+  {
+    type: "Emotional Breakdown",
+    description:
+      "A character has an emotional breakdown after experiencing something in a previous scene.",
+  },
+  {
+    type: "Hopeless",
+    description:
+      "Similar to an emotional breakdown, but more subdued as a character is at their most vulnerable state.",
+  },
+  {
+    type: "Training",
+    description: "A character trains for an event or confrontation.",
   },
 ];
