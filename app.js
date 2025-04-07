@@ -8,10 +8,8 @@ window.onload = loadScene();
 btn.addEventListener("click", loadScene);
 
 function loadScene() {
-  for (let scene of scenes) {
-    let randomIndex = Math.floor(Math.random() * scenes.length);
-    sceneOutput.querySelector(".type").textContent = scenes[randomIndex].type;
-    sceneOutput.querySelector(".description").textContent =
-      scenes[randomIndex].description;
-  }
+  let randomIndex = Math.floor(Math.random() * scenes.length);
+  sceneOutput.querySelector(".type").textContent = scenes[randomIndex].type;
+  sceneOutput.querySelector(".description").textContent =
+    scenes[randomIndex].description;
 }

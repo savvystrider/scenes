@@ -213,7 +213,7 @@ export const scenes = [
   {
     type: "Meet-Cute",
     description:
-      "Two characters that will eventually form a romantic bond first meet in funny, amusing, awkward, or unusual circumstances --in short, they meet in a cute and memorable way.",
+      "Two characters that will eventually form a romantic bond first meet in funny, amusing, awkward, or unusual circumstances -- in short, they meet in a cute and memorable way.",
   },
   {
     type: "Aftermath",
